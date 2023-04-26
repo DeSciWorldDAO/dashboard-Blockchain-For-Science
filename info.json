@@ -1,1 +1,28 @@
-
+{"name":"Blockchain for Science",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Blockchain and Web3 for Science and Research #DESCI Inform, build, and exchange to create the open web for true innovation, unbound data flows, to uncontain scientific communication, and create novel value streams. Why Blockchain For Science? The internet was developed by scientists and the internet has served science since its very beginning. Business models, institutes, structures, and stakeholders that once created leading innovation become silos and legacy structures. This is a natural process. Let’s not fall back into the same divisive patterns again and again. It is not us against them. Let’s create and celebrate collaborative solutions for a better future. Let´s guide developments in the best interest of science and, therefore, humanity. To the moon...#DESCI Science was and is decentralized, on geographical, structural, and organizational levels. However, DAOs, NFTs & token economies provide great new venues for even further decentralization. DESCI stands for decentralized science. The decentralized science movement aims to harness new technologies such as blockchain and ‘Web3’ to address some important research pain points, silos, and bottlenecks (ref). Science is open: The word stems of 'patent' and 'publication' root in Greek and Latin for 'laying open', science was always open. However, the degree of openness varies - web3 offers completely new ways of openness.",
+"whitePaperLink":"https://zenodo.org/record/401369#.ZETPcuzRbSc",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/2DSoJJP.png",
+       "source": "image",
+       "link": "https://blockchainforscience.com"
+   }
+],
+"deleted":false,
+"primaryColor":"#f09838",
+"twitterHandle":"https://twitter.com/science_b0",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/5dTLU27.jpg",
+"telegramLink":"https://t.me/BlockchainForScience",
+"discordLink":"",
+"website":"https://blockchainforscience.com",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Ecosystems"]
+  
+}
